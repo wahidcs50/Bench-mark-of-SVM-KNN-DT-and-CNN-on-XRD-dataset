@@ -5,6 +5,7 @@ This technique can be used in any large data set and implemented on CNN to incre
 # Advantages
 Because CNN and other neural networks work well on images rather than CSV file base data, so it’s a good approach to go with, for better model accuracy.
 ![My Image](g.PNG)
-# Convertion of tabluar dat into images and graphs
+# Convertion of tabluar data into images(a) and graphs(b) 
+Tablular data single rwo would be look like this after transforming into images and graphs.
 
 ![My Image](gg.PNG)
