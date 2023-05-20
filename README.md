@@ -4,3 +4,4 @@ I was exploring a research paper that had findings of a material property predic
 This technique can be used in any large data set and implemented on CNN to increase the accuracy compared to statistical models.
 # Advantages
 Because CNN and other neural networks work well on images rather than CSV file base data, so it’s a good approach to go with, for better model accuracy.
+![My Image](g.PNG)
