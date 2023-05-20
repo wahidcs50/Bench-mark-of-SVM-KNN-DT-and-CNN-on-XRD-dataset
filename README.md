@@ -1,5 +1,16 @@
 # Summary  
-I was exploring a research paper that had findings of a material property prediction. In the article, they used CSV data of over two million samples and report an accuracy of around 83% with different models. My idea was to take the same data and convert it into images and apply different models which increase the accuracy significantly up to 90% with the only use of ten thousand samples.My motivation was to implement CNN because it does a good job on image classification.
+In the present article, we investigated the performance of
+machine learning approaches on XRD datasets. The machine
+learning models had to classify crystal systems of materials.
+Instead of utilizing the tabular data format, the study employed
+two types of datasets[rendered images]: graphical and pixelated
+image datasets. The images datasets performed very
+well as compared to the XRD tabular format dataset used
+by other researchers in their previous studies. By training
+on the images dataset(graphical and pixelated images) our
+machine learning models were able to classify the crystal
+system of material with 98% accuracy while testing them
+on an unseen dataset.
 # Application
 This technique can be used in any large data set and implemented on CNN to increase the accuracy compared to statistical models.
 # Advantages
