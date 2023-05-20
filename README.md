@@ -1,5 +1,5 @@
 # Summary  
-In the present article, we investigated the performance of
+In the our research article, we investigated the performance of
 machine learning approaches on XRD datasets. The machine
 learning models had to classify crystal systems of materials.
 Instead of utilizing the tabular data format, the study employed
